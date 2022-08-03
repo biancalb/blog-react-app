@@ -1,0 +1,22 @@
+#description{
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px;
+    min-height: 550px;
+    background-attachment: scroll;
+    background-color: #F9F2ED;
+    padding: 20px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+#description p{
+    text-align: justify;
+    margin-bottom: 10px;
+}
+li{
+    margin-left: 20px;
+}

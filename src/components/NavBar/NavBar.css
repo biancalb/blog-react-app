@@ -1,0 +1,24 @@
+#header { 
+    background-color: #FFB562;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo, #menu {
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}
+h1{
+    color: black;
+    font-size: 2.5em;
+    padding: 8px 12px;
+}
+a:link, a:visited{
+    color: black;
+    padding: 8px 12px;
+}
+#menu a:hover{
+    background-color: #3AB0FF;
+}

@@ -1,0 +1,20 @@
+#sidebar{
+    /* position: fixed;
+    left: 1000px;
+    top: 152px; */
+    float: right;
+    width: 220px;
+    min-height: 1490px;
+    background-color: #f8f8f8;
+    background-attachment: scroll;
+}
+
+.block{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: rgb(237, 237, 237);
+}
